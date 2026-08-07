@@ -13,8 +13,7 @@ Currently exploring: applied NLP and GenAI-powered data applications.
 
 ## 📌 Featured project
 **[EchoMood — Music Sentiment Analysis Pipeline](https://github.com/SreejaYerramsetti/echomood-music-sentiment-nlp)**
-An NLP pipeline that analyzes sentiment in online music discussions using VADER, TextBlob, and TF-IDF, with a Faktory-based job queue, PostgreSQL storage, and a live Streamlit dashboard.
-🔗 [Live demo](#) — *(add your Streamlit Cloud link here)*
+An NLP pipeline that analyzes sentiment in online music discussions using VADER, TextBlob, and TF-IDF, with a Faktory-based job queue, PostgreSQL storage, and a Streamlit dashboard.
 
 ## 📫 Reach me
 - LinkedIn: [linkedin.com/in/sreejayerramsetti](https://linkedin.com/in/sreejayerramsetti)

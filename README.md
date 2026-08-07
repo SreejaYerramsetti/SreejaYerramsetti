@@ -11,7 +11,7 @@ Currently exploring: applied NLP and GenAI-powered data applications.
 - **GenAI:** LangChain, RAG, Azure OpenAI, Prompt Engineering
 - **Visualization:** Power BI, Streamlit
 
-## 📌 Featured project
+## 📌 Projects
 **[EchoMood — Music Sentiment Analysis Pipeline](https://github.com/SreejaYerramsetti/echomood-music-sentiment-nlp)**
 An NLP pipeline that analyzes sentiment in online music discussions using VADER, TextBlob, and TF-IDF, with a Faktory-based job queue, PostgreSQL storage, and a Streamlit dashboard.
 
